@@ -9,4 +9,4 @@ I'm a graduate student at Northeastern University, passionate about Data Science
 ## Get in Touch
 - **LinkedIn:** [Sabarish Subramaniam](https://www.linkedin.com/in/sabarishsubramaniam/)
 - **Portfolio:** [sabarishsubramania04.wixsite.com/sabarish](https://sabarishsubramania04.wixsite.com/sabarish)
-- **Tableau Public Profile:** [https://public.tableau.com/app/profile/sabarish.subramaniam3258/vizzes]
+- **Tableau Public Profile:** [Tableau Public](https://public.tableau.com/app/profile/sabarish.subramaniam3258/vizzes)
