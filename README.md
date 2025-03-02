@@ -1,5 +1,5 @@
 #### Hi there! 👋🏻 I'm Sabarish
-I'm a graduate student at Northeastern University, passionate about Data Science and Analytics.
+I'm a graduate student at Northeastern University, passionate about Data Ananlytics, Data Science and Data Engineering.
 
 #### About Me
 - 📚 Currently pursuing my Graduate Studies
