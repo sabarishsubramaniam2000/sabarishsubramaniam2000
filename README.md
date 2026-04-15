@@ -14,6 +14,5 @@ I'm a Data & AI professional based in the US, passionate about turning complex d
 - **Frameworks & Tools:** FastAPI, n8n, LiveKit, Vapi.ai, Deepgram, OpenAI
 
 #### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/sabarishsubramaniam/)
-- [Portfolio](https://sabarishsubramania04.wixsite.com/sabarish)
+- [LinkedIn](https://www.linkedin.com/in/sabarishav/)
 - [Tableau Public Profile](https://public.tableau.com/app/profile/sabarish.subramaniam3258/vizzes)
